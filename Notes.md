@@ -1,8 +1,3 @@
----
-title: Notes
-layout: template
-filename: Notes.md
---- 
 # INITIAL VECTOR
 
 1. LLMNR Poisoning
