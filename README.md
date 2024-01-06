@@ -1,4 +1,4 @@
-# Active-Directrory
+# Active_Directrory
 
 Ces notes sont principalement issues du cours de Heath Adams : https://www.youtube.com/watch?v=VXxH4n684HE 
 
